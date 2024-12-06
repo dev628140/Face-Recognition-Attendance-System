@@ -31,7 +31,7 @@ We seek to provide a valuable attendance service for both teachers and students.
 
 ### Automail 
 
-![Automail](https://github.com/dev628140/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/automail.jpg)
+
 
 
 ## Tech Used :computer:
