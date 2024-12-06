@@ -6,13 +6,13 @@ The following is a set of guidelines for contributing to Face Recognition Attend
 
 ## Intro
 
-This project is build on top of Python 3. It is my junior design project on my university course.
+This project is build on top of Python 3.
 
 ## Community
  * If you have any questions regarding zulip-electron, open an issue.
 
 ## Issue
-Ensure the bug was not already reported by searching on GitHub under [issues](https://github.com/kmhmubin/Face-Recognition-Attendance-System/issues). If you're unable to find an open issue addressing the bug, open a [new issue](https://github.com/kmhmubin/Face-Recognition-Attendance-System/issues/new).
+Ensure the bug was not already reported by searching on GitHub under [issues](https://github.com/dev628140/Face-Recognition-Attendance-System/issues). If you're unable to find an open issue addressing the bug, open a [new issue](https://github.com/dev628140/Face-Recognition-Attendance-System/issues/new).
 
 ## Write detailed information
 Detailed information is very helpful to understand an issue.

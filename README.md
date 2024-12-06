@@ -77,7 +77,7 @@ git clone https://github.com/kmhmubin/Face-Recognition-Attendance-System.git
 ```
 demo 
 
-![Git clone](https://github.com/dev628140/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/git%20clone_edit_0.gif)
+
 
 After download, Open the project using **Pycharm or VSCODE**. Then we have to create an python enviroment to run the program.
 
