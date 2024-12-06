@@ -73,7 +73,7 @@ or
 
 You can clone the project with git bash.To clone the project using git bash first open the git bash and write the following code
 ```
-git clone https://github.com/kmhmubin/Face-Recognition-Attendance-System.git
+git clone https://github.com/dev628140/Face-Recognition-Attendance-System.git
 ```
 demo 
 
